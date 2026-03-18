@@ -1,6 +1,7 @@
 ---
 title: Overview
 layout: home
+nav_order: 1
 ---
 This is the website for my Environmental Remote Sensing final project. 
 
