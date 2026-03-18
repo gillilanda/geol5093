@@ -1,6 +1,7 @@
 ---
 title: Introduction
 layout: home
+nav_order: 2
 ---
 Test introduction page
 
