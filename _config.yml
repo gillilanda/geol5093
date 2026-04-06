@@ -1,11 +1,11 @@
-title: SMAP Today
-description: A website for my SMAP Today project. 
+title: GEOL 5093 Project
+description: A website for my GEOL 5093 project. 
 theme: just-the-docs
 
-url: https://gillilanda.github.io/smaptoday/
+url: https://gillilanda.github.io/geol5093/
 
 aux_links:
-  SMAP Today Repository: https://gillilanda.github.io/smaptoday/
+  SMAP Today Repository: https://gillilanda.github.io/5093/
 
   
 # Enable or disable the side/mobile menu globally
