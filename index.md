@@ -3,9 +3,10 @@ title: Overview
 layout: home
 nav_order: 1
 ---
-This is the website for my Environmental Remote Sensing final project. 
+This is the website for my Environmental Remote Sensing final project.
 
-For my project, I’m interested in comparing the freeze/thaw extent of soil since 2015 using the Soil Moisture Passive Microwave (SMAP) satellite data. I work at the National Snow and Ice Data Center to publish and archive SMAP data, so I’m interested in understanding the data from a more scientific perspective. I’m also very interested in the impacts of frozen soil/permafrost shrinking due to climate change.
+November US Rootzone Soil Moisture from 2015-2025 (Soil Moisture Active Passive (SMAP) SPL4SMGP data)
+<img width="1737" height="924" alt="smrootzone_yearly" src="https://github.com/user-attachments/assets/3e393808-f84c-4914-a485-4f89f4ba4368" />
 
 ----
 
