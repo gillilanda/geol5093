@@ -6,7 +6,7 @@ nav_order: 3
 The Soil Moisture Active Passive (SMAP) NASA satellite mission launched in 2015 and continues collecting data to the present day. A majority of the SMAP mission data products are long-term and derived from an L-band radiometer. Shortly after the satellite was launched in March 2015, the L-band radar instrument failed, leaving only 5 months of radar-derived SMAP data. The SMAP instrument measures thawed vs frozen ground as well as the water content of soil in thawed ground. The SMAP instrument has a sun-synchronous polar orbit and a revisit time of 2 days in polar regions and 3 days near the equator. 
 
 <img width="600" height="452" alt="SMAP_data_orbit" src="https://github.com/user-attachments/assets/6013c06c-83f5-4dc7-83f3-4d7cff280bb5" />
-
+*Credit: NASA JPL*
 For this study, I focus on the *SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Geophysical Data, Version 8* (SPL4SMGP) data product. SPL4SMGP includes multiple soil moisture parameters, including surface soil moisture (0-5cm), rootzone soil moisture (0-100cm), and profile soil moisture (0-bedrock depth cm). The data have a spatial resolution of 9km x 9km and consist of 3-hourly time-averaged science parameters, resulting in about 8 global data files per day.
 
 
@@ -16,6 +16,9 @@ Reichle, R.H., G. De Lannoy, R.D. Koster, W.T. Crow, J.S. Kimball, Q. Liu, and M
 L4 Global 3-hourly 9 km EASE-Grid Surface and Root Zone Soil Moisture Geophysical Data, Version 8.
 [Indicate subset used]. Boulder, Colorado USA. NASA National Snow and Ice Data Center Distributed
 Active Archive Center. https://doi.org/10.5067/T5RUATAQREF8. [Date Accessed].
+
+National Aeronautics and Space Administration (NASA), n.d., SMAP multimedia: Jet Propulsion Laboratory, available at https://smap.jpl.nasa.gov/multimedia/?page=0&per_page=25&order=created_at+desc&search=&href_query_params=category%3Dimages&condition_1=1%3Ais_in_resource_list&category=51%2C53 (last accessed April 19, 2026).
+<img width="2299" height="32" alt="image" src="https://github.com/user-attachments/assets/505f18b7-fd0d-4f11-9eff-d9f4fdf6bc6d" />
 
 ----
 
