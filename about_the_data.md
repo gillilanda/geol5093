@@ -7,6 +7,7 @@ The Soil Moisture Active Passive (SMAP) NASA satellite mission launched in 2015 
 
 <img width="600" height="452" alt="SMAP_data_orbit" src="https://github.com/user-attachments/assets/6013c06c-83f5-4dc7-83f3-4d7cff280bb5" />
 *Credit: NASA JPL*
+
 For this study, I focus on the *SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Geophysical Data, Version 8* (SPL4SMGP) data product. SPL4SMGP includes multiple soil moisture parameters, including surface soil moisture (0-5cm), rootzone soil moisture (0-100cm), and profile soil moisture (0-bedrock depth cm). The data have a spatial resolution of 9km x 9km and consist of 3-hourly time-averaged science parameters, resulting in about 8 global data files per day.
 
 
